@@ -24,9 +24,6 @@ Um simples **gerenciador de tarefas** feito em **Python** para adicionar, listar
 5. Deletar tarefas completadas
 6. Sair
 
-Digite a sua escolha: 1
-Digite o nome da tarefa: Estudar Python
-Tarefa 'Estudar Python' adicionada com sucesso!
 
 Digite a sua escolha: 2
 Lista de Tarefas:
